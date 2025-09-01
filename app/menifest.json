@@ -16,7 +16,11 @@
         "src": "snx-favicon.png",
         "sizes": "512x512",
         "type": "image/png"
+      },
+      {
+        "src": "snx-favicon.png",
+        "sizes": "700x700",
+        "type": "image/png"
       }
-      
     ]
   }
