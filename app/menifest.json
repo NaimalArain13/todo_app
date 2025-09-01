@@ -1,0 +1,22 @@
+{
+    "name": "Next-Shadcn-TWA",
+    "short_name": "Next-Shadcn-TWA",
+    "description": "Trusted Web Activity Template built with Next.js, TailwindCSS and Shad-CN",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#DEF81B",
+    "icons": [
+      {
+        "src": "snx-favicon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "snx-favicon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+      
+    ]
+  }
